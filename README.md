@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Jakob Fender  
 
-🔬 **AI Assistant Researcher @ [Hochschule Luzern - Applied AI Lab](https://www.hslu.ch/en/lucerne-school-of-information-technology/research/labs/applied-ai/)**  
+🔬 **Research Assistant @ [Hochschule Luzern - Applied AI Lab](https://www.hslu.ch/en/lucerne-school-of-information-technology/research/labs/applied-ai/)**  
 🎓 **BSc AI/ML | Future MSc Student**  
 💡 **Deep Learning | Audio Processing | Reinforcement Learning**  
-🛠 **Python | Java | Docker | TypeScript**  
-🚀 **Open-Source Enthusiast**  
+🛠 **Python | Java | Docker**   
 
 ## 🧠 About Me  
-I'm passionate about artificial intelligence and its real-world applications. My focus areas include **deep learning**, **audio processing**, and **reinforcement learning**. Currently, I work at the **Applied AI Research Lab** at **Hochschule Luzern**, where I contribute to innovative AI projects.  
+I'm passionate about artificial intelligence and its real-world applications. My focus areas include **deep learning** and **audio processing**.  Currently, I work at the **Applied AI Research Lab** at **Hochschule Luzern**, where I contribute to a winde reange of industry projects.  
 
 ## 💻 Tech Stack  
 - **Languages:** Python, Java, TypeScript  
@@ -15,7 +14,7 @@ I'm passionate about artificial intelligence and its real-world applications. My
 - **Interests:** AI research, model deployment
 
 ## 🌍 Let's Connect  
-📫 Reach me via [LinkedIn](https://www.linkedin.com/in/jakob-fender/) or check out my projects here on GitHub!  
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/jakob-fender/)
 
 ## 📖 Repositories
 
