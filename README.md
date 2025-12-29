@@ -8,11 +8,6 @@
 ## 🧠 About Me  
 I'm passionate about artificial intelligence and its real-world applications. My focus areas include **deep learning** and **audio processing**.  Currently, I work at the **Applied AI Research Lab** at **Hochschule Luzern**, where I contribute to a winde reange of industry projects.  
 
-## 💻 Tech Stack  
-- **Languages:** Python, Java, TypeScript  
-- **Tools & Frameworks:** Docker, PyTorch, FastAPI  
-- **Interests:** AI research, model deployment
-
 ## 🌍 Let's Connect  
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/jakob-fender/)
 
